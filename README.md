@@ -5,17 +5,28 @@
 ## 📂 Folder Structure
 
 ```
-Stock-Price-Forecasting-ML/
-├── notebooks/
-│   ├── Jay_LinearRegression.ipynb
-│   ├── Jay_ARIMA.ipynb
-│   ├── Jay_LSTM.ipynb
-│   ├── Jay_GRU.ipynb
-│   └── Jay_ExecuteGRU.ipynb
-├── report/
-│   └── Final_Project_Report.docx
-├── presentation/
-│   └── Final-Presentation.pptx
+RealEstate-Price-Prediction-MachineLearning/
+├── Client/
+│   ├── app.css
+│   ├── app.html
+│   ├── app.js
+├── Data/
+│   └── House_prices.csv
+├── Model/
+│   ├── House_prices_model.pickle
+│   ├── House_prices_data.ipynb
+│   ├── Outliers_removal1.png
+│   ├── Outliers_removal2.png
+│   └── columns.json
+├── Resources/
+│   ├── Model_view.png
+│   └── House_prices_data.ipynb
+├── Server/
+│   ├── artifacts
+│   │   ├── Home_prices_model.pickle
+│   │   └── columns.json
+│   ├── server.py
+│   └── util.py
 ├── README.md
 ```
 
