@@ -1,7 +1,7 @@
 # Real-estate-price-prediction-ML
 
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=black)
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
 
 
 
